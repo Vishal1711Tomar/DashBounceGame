@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 566cdefb508c0a84f828fa334a0f99a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8734524422037676747
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_0
+  - first:
+      213: -7651914253982680826
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_1
+  - first:
+      213: -9093467268420635539
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_2
+  - first:
+      213: 4516118875326208579
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_3
+  - first:
+      213: 2219482887130700073
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_4
+  - first:
+      213: 951732071332956975
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_5
+  - first:
+      213: -5603281700516887662
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_6
+  - first:
+      213: -1219540623180413810
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_7
+  - first:
+      213: 7044379280318394551
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_8
+  - first:
+      213: -3812486226983560291
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_9
+  - first:
+      213: 1768134311774195202
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_10
+  - first:
+      213: -8266103816465883450
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_11
+  - first:
+      213: -4236159395934289204
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_12
+  - first:
+      213: -4288811222402666808
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_13
+  - first:
+      213: 953855521946112509
+    second: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 413
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d587ec05cb8c680800000000000000
+      internalID: -8734524422037676747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 395
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6093d9f0780fec590800000000000000
+      internalID: -7651914253982680826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 369
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d647529d2b38dc180800000000000000
+      internalID: -9093467268420635539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 305
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a514f803a7cae30800000000000000
+      internalID: 4516118875326208579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 304
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929db703def2dce10800000000000000
+      internalID: 2219482887130700073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 304
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc521c64b353d00800000000000000
+      internalID: 951732071332956975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 305
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2938e381bf42d32b0800000000000000
+      internalID: -5603281700516887662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 304
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e844c2eb342531fe0800000000000000
+      internalID: -1219540623180413810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 305
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ff7af1a9a2c160800000000000000
+      internalID: 7044379280318394551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 230
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b5399d9f3571bc0800000000000000
+      internalID: -3812486226983560291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 230
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0b70e9cca98810800000000000000
+      internalID: 1768134311774195202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 229
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cedc07ef56e84d80800000000000000
+      internalID: -8266103816465883450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 230
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2476939732635c0800000000000000
+      internalID: -4236159395934289204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 184
+        width: 101
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceeaf39ae41b74c0800000000000000
+      internalID: -4288811222402666808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 116
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df194a02b86cc3d00800000000000000
+      internalID: 953855521946112509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_0: -8734524422037676747
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_1: -7651914253982680826
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_10: 1768134311774195202
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_11: -8266103816465883450
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_12: -4236159395934289204
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_13: -4288811222402666808
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_14: 953855521946112509
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_2: -9093467268420635539
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_3: 4516118875326208579
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_4: 2219482887130700073
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_5: 951732071332956975
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_6: -5603281700516887662
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_7: -1219540623180413810
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_8: 7044379280318394551
+      20250425_1213_BounceDash_Game_Logo_simple_compose_01jsntxnzgex1tmvef1ef7q4cj-removebg-preview_9: -3812486226983560291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

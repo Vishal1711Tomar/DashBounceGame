@@ -37,21 +37,6 @@ Guide the bouncing ball as far as possible while dodging obstacles and collectin
 - ✨ Visual effects (score pop, coin sparkle)
 - 🧘 Clean minimalist UI for maximum clarity
 
-### 🧰 Technical Stack
-
-- 🛠️ Developed with **Unity 6**
-- 📱 Mobile input support for swipe control
-- 📁 Modular C# scripts:
-  - `PlayerMovement.cs`
-  - `BouncePhysics.cs`
-  - `ObstacleSpawner.cs`
-  - `CoinSpawner.cs`
-  - `GameManager.cs`
-  - `UIManager.cs`
-- 💬 Code includes clear comments and structure for maintainability
-
----
-
 ## 🚀 How to Run the Game
 
 1. Clone the repository or download the source files.
